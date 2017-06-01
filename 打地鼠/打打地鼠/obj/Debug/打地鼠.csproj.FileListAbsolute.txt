@@ -1,0 +1,15 @@
+D:\C#\打打地鼠\打打地鼠\bin\Debug\打打地鼠.exe
+D:\C#\打打地鼠\打打地鼠\bin\Debug\打打地鼠.pdb
+D:\C#\打打地鼠\打打地鼠\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\打打地鼠\打打地鼠\obj\Debug\打地鼠.csproj.GenerateResource.Cache
+D:\C#\打打地鼠\打打地鼠\obj\Debug\打打地鼠.exe
+D:\C#\打打地鼠\打打地鼠\obj\Debug\打打地鼠.pdb
+D:\C#\打打地鼠\打打地鼠\obj\Debug\打地鼠.FormMain.resources
+D:\C#\打打地鼠\打打地鼠\obj\Debug\打地鼠.Properties.Resources.resources
+C:\Users\Administrator\Desktop\打地鼠\打打地鼠\obj\Debug\打打地鼠.exe
+C:\Users\Administrator\Desktop\打地鼠\打打地鼠\obj\Debug\打打地鼠.pdb
+C:\Users\Administrator\Desktop\打地鼠\打打地鼠\bin\Debug\打打地鼠.exe
+C:\Users\Administrator\Desktop\打地鼠\打打地鼠\bin\Debug\打打地鼠.pdb
+C:\Users\Administrator\Desktop\打地鼠\打打地鼠\obj\Debug\打地鼠.FormMain.resources
+C:\Users\Administrator\Desktop\打地鼠\打打地鼠\obj\Debug\打地鼠.Properties.Resources.resources
+C:\Users\Administrator\Desktop\打地鼠\打打地鼠\obj\Debug\打地鼠.csproj.GenerateResource.Cache
